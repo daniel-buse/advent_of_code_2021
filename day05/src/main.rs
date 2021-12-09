@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 #[derive(Debug, Copy, Clone, PartialEq, Eq)]
 struct Point {
     x: i32,
